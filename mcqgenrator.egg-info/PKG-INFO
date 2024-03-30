@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: mcqgenrator
 Version: 0.0.1
-Author: sunny savita
-Author-email: sunny.savita@ineuron.ai
+Author: Satyaprakash Nayak
+Author-email: n.satyaprakash@yahoo.com
 Requires-Dist: openai
 Requires-Dist: langchain
 Requires-Dist: streamlit
