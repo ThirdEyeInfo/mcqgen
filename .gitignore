@@ -3,4 +3,10 @@ env
 logs
 build
 dist
-src/mcqgenerator/__pycache__
+mcqgenrator.egg-info/SOURCES.txt
+mcqgenrator.egg-info/dependency_links.txt
+mcqgenrator.egg-info/requires.txt
+mcqgenrator.egg-info/top_level.txt
+src/__pycache__/__init__.cpython-38.pyc
+src/mcqgenerator/__pycache__/__init__.cpython-38.pyc
+src/mcqgenerator/__pycache__/logger.cpython-38.pyc

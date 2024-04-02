@@ -1,4 +1,3 @@
-import os
 import json
 import traceback
 import pandas as pd
@@ -9,7 +8,7 @@ from src.mcqgenerator.MCQGenerator import generate_evaluate_chain
 from src.mcqgenerator.logger import logging
 
 # loading json file
-with open(r"C:\Users\91992\mcqgen\Response.json",'r') as file:
+with open(r"C:\Users\sanayak\mcqgen\Response.json",'r') as file:
     RESPONSE_JSON = json.load(file)
 
 #creating a title for the app
