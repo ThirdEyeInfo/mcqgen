@@ -13,3 +13,5 @@
 - Open StreamlitAPP.py (notepad++ or VS Code) and configure Response.json file path at line number 11 with appropriate value 
 - Run mcqgen with below command
     * streamlit run StreamlitAPP.py --server.port 8080
+ 
+    * test
